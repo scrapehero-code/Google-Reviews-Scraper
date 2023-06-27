@@ -1,4 +1,4 @@
-Google Maps Scraper using Playwright Python
+# Google Maps Scraper using Playwright Python
 
 Step 1: Clone/download the repo to your local system.
 
