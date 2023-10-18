@@ -8,7 +8,7 @@ Step 3: Install the dependencies mentioned in the `package.json` file using the 
 >`npm install`
 
 Step 4: Install the necessary browsers required for playwright 
->`playwright install`
+>`npx playwright install`
 
 Step 5: Run the scraper code using
 >` node main.js`
